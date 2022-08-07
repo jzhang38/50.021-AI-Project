@@ -43,7 +43,7 @@ python shard_dataset.py
 
 ## Model Checkpoints
 
-You may download the model checkpoints from here: [Google Drive]. Unzip the files and replace the `saved` directory with the extracted files.
+You may download the model checkpoints from here: [Google Drive](https://drive.google.com/drive/folders/1mSN0ieYxZxASq7ONMqvtrqxkxjSn_iRt?usp=sharing). 
 
 ## Training
 To download [BasicVSR](https://arxiv.org/abs/2012.02181)'s checkpoint trained on the [REDS](https://seungjunnah.github.io/Datasets/reds.html) dataset
